@@ -95,7 +95,7 @@ O projeto utiliza as seguintes bibliotecas principais para o desenvolvimento fro
 ## 🗂️ Estrutura de Diretórios do Projeto
 Abaixo está uma descrição da organização das pastas e arquivos do projeto para melhor entendimento:
 ```bash
-/
+/website
 ├── .next/               # Pasta gerada automaticamente pelo Next.js (build)
 ├── backend/             # (Opcional) Diretório reservado para lógica backend, caso necessário
 ├── node_modules/        # Módulos e dependências instaladas pelo npm/yarn
@@ -118,7 +118,6 @@ Abaixo está uma descrição da organização das pastas e arquivos do projeto p
 │   └── styles/          # Arquivos CSS ou configurações do Tailwind
 ├── tasks/               # Scripts de automação e tarefas do projeto
 ├── .env                 # Variáveis de ambiente (não versionado no git)
-├── .env.example         # Exemplo de arquivo `.env` para configuração local
 ├── .gitignore           # Arquivos/pastas ignorados pelo Git
 ├── next-env.d.ts        # Tipagens automáticas do Next.js com TypeScript
 ├── next.config.js       # Configurações do Next.js
@@ -126,4 +125,8 @@ Abaixo está uma descrição da organização das pastas e arquivos do projeto p
 ├── package-lock.json    # Mapa de versões exatas das dependências
 ├── postcss.config.mjs   # Configurações do PostCSS (usado pelo Tailwind)
 └── README.md            # Documentação do projeto
+Readme.md
+Licence
+env.example            # Exemplo de arquivo `.env` para configuração local
+regras.md
 ```
