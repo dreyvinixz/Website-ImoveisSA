@@ -125,7 +125,8 @@ Abaixo está uma descrição da organização das pastas e arquivos do projeto p
 ├── package-lock.json    # Mapa de versões exatas das dependências
 ├── postcss.config.mjs   # Configurações do PostCSS (usado pelo Tailwind)
 └── README.md            # Documentação do projeto
-.Readme.md
-.Licence
-.env.example            # Exemplo de arquivo `.env` para configuração local
+Readme.md
+Licence
+env.example            # Exemplo de arquivo `.env` para configuração local
+regras.md
 ```
