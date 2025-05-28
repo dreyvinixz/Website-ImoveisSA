@@ -17,7 +17,7 @@ Caso as ideias e funcionalidades apresentadas neste protótipo sejam aprovadas, 
 
 ---
 
-### 🔗 Link do GitHub  
+### 🔗 Link do GitHub
 
 [🔗 Acessar repositório no GitHub](https://github.com/Project-AuroraSys/Website-ImoveisSA.git)
 
@@ -41,7 +41,7 @@ Certifique-se de ter as seguintes ferramentas instaladas no seu ambiente:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/Project-AuroraSys/System-open-mall.git
+git clone https://github.com/Project-AuroraSys/Website-ImoveisSA.git
 ```
 
 2. Acesse o diretório do projeto:
