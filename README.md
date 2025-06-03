@@ -118,7 +118,6 @@ Abaixo está uma descrição da organização das pastas e arquivos do projeto p
 │   └── styles/          # Arquivos CSS ou configurações do Tailwind
 ├── tasks/               # Scripts de automação e tarefas do projeto
 ├── .env                 # Variáveis de ambiente (não versionado no git)
-├── .gitignore           # Arquivos/pastas ignorados pelo Git
 ├── next-env.d.ts        # Tipagens automáticas do Next.js com TypeScript
 ├── next.config.js       # Configurações do Next.js
 ├── package.json         # Lista de dependências e scripts do projeto
@@ -126,7 +125,8 @@ Abaixo está uma descrição da organização das pastas e arquivos do projeto p
 ├── postcss.config.mjs   # Configurações do PostCSS (usado pelo Tailwind)
 └── README.md            # Documentação do projeto
 Readme.md
+.gitignore              # Arquivos/pastas ignorados pelo Git
 Licence
-env.example            # Exemplo de arquivo `.env` para configuração local
+env.example             # Exemplo de arquivo `.env` para configuração local
 regras.md
 ```
