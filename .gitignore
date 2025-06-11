@@ -50,3 +50,6 @@ next-env.d.ts
 # ────────────────────────────────────────────────────────────────────────────────
 # Diretórios específicos
 backend/
+
+*storybook.log
+storybook-static
