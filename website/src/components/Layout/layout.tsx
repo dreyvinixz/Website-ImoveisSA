@@ -25,7 +25,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
   return (
     <div className="layout">
       <Header user={mockUser} />
-      <main style={{ padding: '2rem' }}>
+      <main className="px-8 pt-8 pb-0">
         {children}
       </main>
       <Footer />
